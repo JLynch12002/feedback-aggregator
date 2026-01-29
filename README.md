@@ -2,4 +2,4 @@
 
 ### Deployed worker link: https://feedback-aggregator.joshlynch12002.workers.dev 
 
-![alt text](feedback-aggregator/Screenshot 2026-01-29 at 17.44.52.png)
+![Alt text](/../<feedback-aggregator>/path/to/image.png?raw=true "Optional Title")
