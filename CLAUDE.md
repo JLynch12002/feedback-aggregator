@@ -4,7 +4,7 @@
 
 The goal is to prototype a tool using CloudFlare products that helps Product managers aggregate and analyse customer feedback from multiple sources to derive meaningful insights.
 
-**Important constraint:** The build phase is time-boxed to **2 hours maximum**. This does not mean you are time capped, rather it means you should prioritise a working deployed prototype over feature completeness. A simple working dashboard beats an ambitious broken one.
+**Important constraint:** The build phase is time-boxed to **2 hours maximum**. Prioritise a working deployed prototype over feature completeness. A simple working dashboard beats an ambitious broken one.
 
 **What matters most:** Cloudflare explicitly states they value "a broken prototype with brilliant product critique over a perfect prototype with no feedback." The prototype demonstrates building capability and how I approach and review it.
 
